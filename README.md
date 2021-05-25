@@ -1,1 +1,1 @@
-# ch2
+# GIT Challenge 2
